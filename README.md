@@ -1,4 +1,4 @@
-## Wind River Linux BASE24
+## Wind River Linux BASE25
 
 To get started with Wind River Linux BASE25:
 
